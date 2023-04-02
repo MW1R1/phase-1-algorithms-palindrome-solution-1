@@ -9,9 +9,14 @@ function isPalindrome(word) {
 */
 //word === word in reverse
 //spell word then reverse it
+//if word === palindrome
+//return true;
+//else return false
 /*
   Add written explanation of your solution here
 */
+//isPalindrome function to check wheteher word is palindrome
+//split word and reverse then return true or false
 
 // You can run `node index.js` to view these console logs
 if (require.main === module) {
